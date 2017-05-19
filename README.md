@@ -11,11 +11,6 @@
 2. [complex-string](https://jsfiddle.net/dwicao/4u4gjg7h/)
 3. [extreme-string](https://jsfiddle.net/dwicao/w7o65L0t/) [(part2)](https://jsfiddle.net/dwicao/w7o65L0t/1/)
 
-#### string search method
-1. [starts-with](https://jsfiddle.net/dwicao/872u47rw/) [(part2)](https://jsfiddle.net/dwicao/872u47rw/1/)
-2. [ends-with](https://jsfiddle.net/dwicao/jb5z9xu6/) [(part2)](https://jsfiddle.net/dwicao/jb5z9xu6/1/)
-3. [includes](https://jsfiddle.net/dwicao/qhfvqtuu/)
-
 #### good parts
 1. [arrow-function](https://jsfiddle.net/dwicao/y2t02kmz/) [(part2)](https://jsfiddle.net/dwicao/y2t02kmz/1/) [(part3)](https://jsfiddle.net/dwicao/y2t02kmz/2/)
 2. [default-parameter](https://jsfiddle.net/dwicao/adgwqb5d/) [(part2)](https://jsfiddle.net/dwicao/adgwqb5d/1/) [(part3)](https://jsfiddle.net/dwicao/adgwqb5d/2/) [(part4)](https://jsfiddle.net/dwicao/adgwqb5d/3/)
@@ -26,7 +21,6 @@
 7. [destructuring-array](https://jsfiddle.net/dwicao/edgeub34/)
 8. [destructuring-default-function](https://jsfiddle.net/dwicao/4y92rd04/)
 9. [object-property-shorthand](https://jsfiddle.net/dwicao/7atwg5n3/)
-10. [for---of](https://jsfiddle.net/dwicao/d8n6q7hx/) [(part2)](https://jsfiddle.net/dwicao/d8n6q7hx/1/) [(part3)](https://jsfiddle.net/dwicao/d8n6q7hx/2/)
 
 #### classes
 1. [basic-structure](https://jsfiddle.net/dwicao/tecg4quy/)
